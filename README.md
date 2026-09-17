@@ -1,5 +1,9 @@
 ## Hi there 👋
 
+I'm Lucy! 
+Welcome to my page!
+(=^-^=)
+
 <!--
 **lucybelfry/lucybelfry** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
